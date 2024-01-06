@@ -1,8 +1,3 @@
----
-title: "My First Post"
-date: 2022-11-20T09:03:20-08:00
-draft: true
----
 ﻿<a name="_66mewcur1gr7"></a>**Himanshu Singh**
 
 <a name="_78kyao793hme"></a><a name="_famfozupfpti"></a>**Higher Order and Callback Functions - JavaScript**
